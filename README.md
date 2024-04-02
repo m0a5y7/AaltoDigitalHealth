@@ -1,5 +1,6 @@
 # Understanding depression and anxiety through social media
 
+In this final project for the Digital Health and Human Behaviour course, social media posts about depression and anxiety were analysed. It was found that there is some overlap between both themes and specific posting habits such as posting late at night, or correlated sentiments such as sadness or anger. Tf-idf scores were also calculated to highlight frequent words present in both datasets.
 
 # Installation
 
